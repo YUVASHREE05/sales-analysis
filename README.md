@@ -26,7 +26,7 @@ It provides an interactive and visual way to track performance, identify key tre
 ---
 
 ## 🔹 Dashboard Preview
-[SALES_ANALYSIS DASHBAORD] https://github.com/YUVASHREE05/sales-analysis/blob/main/SALES%20ANALYSIS%20DB.png
+[SALES_ANALYSIS DASHBAORD] (https://github.com/YUVASHREE05/sales-analysis/blob/main/SALES%20ANALYSIS%20DB.png)
 
 ---
 
