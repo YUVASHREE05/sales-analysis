@@ -33,7 +33,7 @@ It provides an interactive and visual way to track performance, identify key tre
 ---
 
 ## 🔹 Dashboard Preview
-![Sales Dashboard](dashboard/sales_dashboard.png)
+https://github.com/YUVASHREE05/sales-analysis/commit/049bb5a69ca880dba68479750f791dd00cb5cedb
 
 ---
 
